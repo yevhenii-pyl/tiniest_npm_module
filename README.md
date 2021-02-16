@@ -2,4 +2,4 @@
 
 ![npm](https://img.shields.io/npm/v/@yev.pyl/tiny_package)
 
-It's the tiniest!
+It's the tiniest module I can imagine. Works like an ES module. 
