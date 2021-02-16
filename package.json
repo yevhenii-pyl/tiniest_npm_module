@@ -5,6 +5,7 @@
     "repository": "yevhenii-pyl/tiniest_npm_module",
     "license": "ISC",
     "main": "index.js",
+    "type": "module",
     "keywords": [
         "tiny",
         "npm",
